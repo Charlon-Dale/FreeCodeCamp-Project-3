@@ -1,6 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: Inter, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
 .background-img {
   background-image: url('./assets/coding.jpg');
@@ -15,8 +16,12 @@
 
 
 form {
-  background: rgb(147, 5, 5, 0.2);
-  border-radius: 2cm;
+
+
+  background: rgba( 255, 255, 255, 0.10 );
+  backdrop-filter: blur( 10px );
+  -webkit-backdrop-filter: blur( 10px );
+  border-radius: 10px;
   width: 620px;
   height: 643px;
   margin: 0;

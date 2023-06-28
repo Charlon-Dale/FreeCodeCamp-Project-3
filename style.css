@@ -15,9 +15,7 @@
 }
 
 
-form {
-
-
+.survey-form {
   background: rgba( 255, 255, 255, 0.10 );
   backdrop-filter: blur( 10px );
   -webkit-backdrop-filter: blur( 10px );
@@ -28,7 +26,12 @@ form {
   top: 15%;
   left: 30%;
   position: absolute;
-  
-  
+}
 
+.button {
+  background-color:#279E3A;
+  color: #fff;
+  border:none;
+  border-radius:50px;
+  text-decoration: none;
 }

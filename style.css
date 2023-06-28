@@ -1,12 +1,29 @@
-body, html {
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.background-img {
+  background-image: url('./assets/coding.jpg');
+  background-size: cover;
+
+  /* Full height */
   height: 100%;
-  margin: 0;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
 }
 
-.background {
-  background-image: url("coding.jpg");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
+form {
+  background: rgb(147, 5, 5, 0.2);
+  border-radius: 2cm;
+  width: 620px;
+  height: 643px;
+  margin: 0;
+  top: 15%;
+  left: 30%;
+  position: absolute;
+  
+  
+
 }

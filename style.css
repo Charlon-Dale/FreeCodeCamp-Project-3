@@ -21,8 +21,8 @@
   backdrop-filter: blur( 10px );
   -webkit-backdrop-filter: blur( 10px );
   border-radius: 10px;
-  width: 620px;
-  height: 643px;
+  width: 520px;
+  height: 543px;
   top: 15%;
   left: 35%;
   position: absolute;
@@ -41,4 +41,9 @@
   border:none;
   border-radius:50px;
   text-decoration: none;
+}
+
+.survey-content h1 {
+  font-size: 47px;
+  padding: 106px 32px 99px 31px;
 }

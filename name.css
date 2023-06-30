@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+}
+.background-img {
+  background-image: url('./assets/coding.webp');
+  background-size: cover;
+
+  /* Full height */
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+.survey-form {
+  background: rgba( 255, 255, 255, 0.10 );
+  backdrop-filter: blur( 10px );
+  -webkit-backdrop-filter: blur( 10px );
+  border-radius: 50px;
+  width: 620px;
+  height: 643px;
+  top: 15%;
+  left: 35%;
+  position: absolute;
+}
+
+.survey-content {
+  text-align:center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.button {
+  background-color:#279E3A;
+  color: #D3D3D3;
+  border:none;
+  border-radius:50px;
+  text-decoration: none;
+  margin: 0px 32px 106px 31px;
+  height: 74px;
+  text-align: center;
+  font-size: 24px;
+  
+}
+
+.survey-content h1 {
+  color: #FEF5F5;
+  font-weight: 400;
+  font-size: 64px;
+  margin: 106px 32px 99px 31px;
+}
+
+.survey-content p {
+  margin: 0px 32px 70px 31px;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-size: 20px;
+  color:#D3D3D3;
+}
+
+.text-btn {
+  position: absolute;
+  margin: 20px 240px;
+}
+
+.arrow-right { 
+  float: right;
+  margin: 10px 30px;
+}
+
+

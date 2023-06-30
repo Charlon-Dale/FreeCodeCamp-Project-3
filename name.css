@@ -86,9 +86,9 @@
     color: #d9d9d9;
 }
 
-.txt-name::placeholder {
-    color:black;
-    opacity: 1;
+::placeholder {
+    color: rgb(0,0,0, 60%);
+    opacity: 2;
 }
 
 

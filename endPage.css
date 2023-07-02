@@ -59,36 +59,6 @@
   margin: 106px 32px 99px 31px;
 }
 
-.survey-content p {
-  margin: 0px 32px 70px 31px;
-  line-height: 1.3em;
-  font-weight: 400;
-  font-size: 20px;
-  color:#D3D3D3;
-}
 
-.text-btn {
-  position: absolute;
-  margin: 20px 170px;
-}
-
-.arrow-right { 
-  float: right;
-  margin: 10px 30px;
-}
-
-.txt-name {    
-    text-align: center;
-    margin: 0px 41px 70px;
-    border-radius: 50px;
-    height: 93px;
-    font-size: 24px;
-    color: rgb(0,0,0, 60%);
-}
-
-::placeholder {
-    color: rgb(0,0,0, 60%);
-    opacity: 2;
-}
 
 

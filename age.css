@@ -56,7 +56,7 @@
   color: #FEF5F5;
   font-weight: 400;
   font-size: 64px;
-  margin: 106px 32px 99px 31px;
+  margin: 106px 32px 139px 31px;
 }
 
 .survey-content p {
@@ -83,7 +83,7 @@
     border-radius: 50px;
     height: 93px;
     font-size: 24px;
-    color: #d9d9d9;
+    color: rgb(0,0,0, 60%);
 }
 
 ::placeholder {

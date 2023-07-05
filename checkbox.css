@@ -56,7 +56,7 @@
   color: #FEF5F5;
   font-weight: 400;
   font-size: 36px;
-  margin: 106px 32px 99px 31px;
+  margin: 0px 32px 99px 31px;
 }
 
 .survey-content p {
@@ -70,6 +70,14 @@
 .text-btn {
   position: absolute;
   margin: 20px 170px;
+}
+
+.arrow-left { 
+  height: 50px;
+  width: 40px;
+  float: left;
+  margin: 20px 30px;
+  transform: rotate(180deg);
 }
 
 .txt-name {    

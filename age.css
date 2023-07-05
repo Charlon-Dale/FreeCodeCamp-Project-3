@@ -56,7 +56,7 @@
   color: #FEF5F5;
   font-weight: 400;
   font-size: 64px;
-  margin: 106px 32px 139px 31px;
+  margin: 0px 32px 139px 31px;
 }
 
 .survey-content p {
@@ -76,6 +76,15 @@
   float: right;
   margin: 10px 30px;
 }
+
+.arrow-left { 
+  height: 50px;
+  width: 40px;
+  float: left;
+  margin: 20px 30px;
+  transform: rotate(180deg);
+}
+
 
 .txt-name {    
     text-align: center;
